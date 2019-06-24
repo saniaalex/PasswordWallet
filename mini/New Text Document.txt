@@ -1,0 +1,11 @@
+import javax.swing.*;
+import java.awt.*;
+class FB
+{
+ public static void main(String[] args)
+ {
+ JFrame obj= new JFrame("Password Wallet);
+ obj.setSize(400,500);
+ obj.setVisible(true);
+ }
+ }
